@@ -2,7 +2,7 @@
 
 # 요구사항
 - [ ] KYS(Known Your Self)를 작성한다.
-    - [ ] Key Strength 를 작성한다.
+    - [x] Key Strength 를 작성한다.
     - [ ] Read.me 를 작성한다.
     - [ ] Goal을 작성한다.
 - [ ] 되고싶은 개발자(Goal)가 되기 위한 gap 분석을 한다..
@@ -28,8 +28,7 @@
 ### Read.me 작성
 - Key Strength로 표현된 keyword를 가지고 본인을 소개하는 3~5줄 정도의 Read.me를 작성해 본다.
 - ex
-    - 토스 간편결제 서비스와 라인에서 태국, 대만, 인도네시아 인터넷 뱅킹을 개발 하였습니다. 
-    - java를 기반한 Spring framewor와 Spring boot, JPA그리고 JWT, Spring security 같은 보안 모듈을 활용하여 핀테크서비스를 개발 하였고 최근에는 팀장으로 개발자 20여명의 팀을 이끌면서 간편결제 시스템을 운영 하고 있습니다. 
+    - java를 기반한 Spring framework와 Spring boot, JPA그리고 JWT, Spring security 같은 보안 모듈을 활용하여 핀테크서비스를 개발 하였고 최근에는 팀장으로 개발자 20여명의 팀을 이끌면서 간편결제 시스템을 운영 하고 있습니다. 
 
 ### Goal 설정
 - 작성된 read.me로 현재의 자신을 객관적으로 살펴 보고 현실적으로 본인이 되고자하는 개발자로서의 목표를 2~3개 잡아본다.
